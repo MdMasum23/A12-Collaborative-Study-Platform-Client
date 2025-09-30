@@ -38,3 +38,4 @@ const AuthLayout = () => {
 };
 
 export default AuthLayout;
+//authlayout
