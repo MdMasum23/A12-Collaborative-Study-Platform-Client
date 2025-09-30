@@ -63,3 +63,4 @@ const AuthProvider = ({ children }) => {
 };
 
 export default AuthProvider;
+//Add AuthProvider with Firebase auth functions
