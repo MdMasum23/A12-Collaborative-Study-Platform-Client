@@ -63,3 +63,4 @@ const ApproveModal = ({ session, closeModal, refetch }) => {
 };
 
 export default ApproveModal;
+//Add ApproveModal component for approving study sessions with optional payment
