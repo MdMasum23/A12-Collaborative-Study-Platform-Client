@@ -58,3 +58,4 @@ const SessionReviews = ({ sessionId }) => {
 };
 
 export default SessionReviews;
+//Add SessionReviews component to display reviews and average rating
