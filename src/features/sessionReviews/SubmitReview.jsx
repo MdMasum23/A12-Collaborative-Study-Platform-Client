@@ -79,3 +79,4 @@ const SubmitReview = ({ sessionId, onReviewSubmitted }) => {
 };
 
 export default SubmitReview;
+//Add SubmitReview component for posting session reviews with star rating
