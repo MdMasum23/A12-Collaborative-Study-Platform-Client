@@ -98,3 +98,4 @@ const CreateNote = () => {
 };
 
 export default CreateNote;
+// add CreateNote form component for creating study notes
