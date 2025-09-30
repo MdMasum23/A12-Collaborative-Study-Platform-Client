@@ -159,3 +159,4 @@ const SessionDetails = () => {
 };
 
 export default SessionDetails;
+//Add SessionDetails page with booking and reviews functionality
