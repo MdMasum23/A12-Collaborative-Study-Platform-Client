@@ -106,3 +106,4 @@ const UploadAllMaterials = () => {
 };
 
 export default UploadAllMaterials;
+// add UploadAllMaterials component with update and delete functionality
