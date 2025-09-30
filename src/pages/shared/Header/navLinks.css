@@ -1,0 +1,17 @@
+.link {
+    font-weight: 600;
+    margin: 0px 6px;
+    padding: 6px 10px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+}
+
+.link:hover {
+    background-color: rgb(231, 231, 231);
+    border-radius: 5px;
+}
+
+.active {
+    border-bottom: 3px solid black;
+}
