@@ -88,3 +88,4 @@ const SessionRow = ({ session, type, setSelectedSession, setModalOpen, refetch }
 };
 
 export default SessionRow;
+//Add SessionRow component
