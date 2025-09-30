@@ -107,3 +107,4 @@ const AllStudyMaterials = () => {
 };
 
 export default AllStudyMaterials;
+//add AllStudyMaterials component to view & download session materials
