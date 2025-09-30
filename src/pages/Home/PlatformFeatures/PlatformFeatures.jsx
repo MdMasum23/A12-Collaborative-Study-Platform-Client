@@ -72,3 +72,4 @@ const PlatformFeatures = () => {
 };
 
 export default PlatformFeatures;
+//platformfeatures
