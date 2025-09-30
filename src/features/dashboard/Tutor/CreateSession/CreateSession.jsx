@@ -202,3 +202,4 @@ const CreateSession = () => {
 };
 
 export default CreateSession;
+//add CreateSession form for tutors to submit new study sessions
