@@ -108,3 +108,4 @@ const UpdateMaterialModal = ({ material, closeModal, refetch }) => {
 };
 
 export default UpdateMaterialModal;
+//add UpdateMaterialModal for editing study materials
