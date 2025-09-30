@@ -139,3 +139,4 @@ export const router = createBrowserRouter([
         Component: NotFound
     }
 ]);
+//Setup React Router with Main, Auth, and Dashboard layouts including Private and Admin routes
