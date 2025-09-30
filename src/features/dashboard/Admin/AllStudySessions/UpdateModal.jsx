@@ -61,3 +61,4 @@ const UpdateModal = ({ session, closeModal, refetch }) => {
 };
 
 export default UpdateModal;
+//Add UpdateModal component for editing sessions
