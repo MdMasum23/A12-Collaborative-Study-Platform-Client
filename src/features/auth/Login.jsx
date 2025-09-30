@@ -125,3 +125,4 @@ const Login = () => {
 };
 
 export default Login;
+//Add Login component with email/password and Google authentication
