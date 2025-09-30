@@ -62,3 +62,4 @@ const UserRow = ({ user, index, refetch }) => {
 };
 
 export default UserRow;
+// add UserRow component with role update buttons
