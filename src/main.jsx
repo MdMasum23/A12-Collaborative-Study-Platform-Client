@@ -22,3 +22,4 @@ createRoot(document.getElementById('root')).render(
     </div>
   </StrictMode>,
 )
+//Setup React app with Router, AuthProvider, React Query, and AOS initialization
