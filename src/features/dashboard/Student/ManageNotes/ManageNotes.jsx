@@ -110,3 +110,4 @@ const ManageNotes = () => {
 };
 
 export default ManageNotes;
+//add ManageNotes component with edit and delete functionality
