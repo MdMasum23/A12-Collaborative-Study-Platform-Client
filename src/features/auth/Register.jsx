@@ -164,3 +164,4 @@ const Register = () => {
 };
 
 export default Register;
+//Add Register component with email/password, photo URL, and Google signup
