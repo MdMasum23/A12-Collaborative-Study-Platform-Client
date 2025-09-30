@@ -35,3 +35,4 @@ const BookedSessions = () => {
 };
 
 export default BookedSessions;
+// add BookedSessions component to display user's booked sessions
