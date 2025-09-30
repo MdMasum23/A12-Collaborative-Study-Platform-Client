@@ -65,3 +65,4 @@ const SocialLogin = () => {
 };
 
 export default SocialLogin;
+//Add SocialLogin component with Google authentication
