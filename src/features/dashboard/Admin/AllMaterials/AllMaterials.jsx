@@ -96,3 +96,5 @@ const AllMaterials = () => {
 };
 
 export default AllMaterials;
+
+//Add AllMaterials admin component with fetch, display, and delete functionality
