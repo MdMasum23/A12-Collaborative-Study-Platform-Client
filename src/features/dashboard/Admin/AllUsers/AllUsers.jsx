@@ -86,3 +86,4 @@ const AllUsers = () => {
 };
 
 export default AllUsers;
+//AllUsers component: fetch, search, and display users in card (mobile) or table (desktop) view
