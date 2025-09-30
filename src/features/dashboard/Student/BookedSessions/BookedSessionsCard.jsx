@@ -24,3 +24,4 @@ const BookedSessionsCard = ({ booking }) => {
 };
 
 export default BookedSessionsCard;
+//add BookedSessionsCard component to display individual booked session
